@@ -33,7 +33,7 @@
   }
 </script>
 
-<style>
+<style lang="scss">
   .v-catalog-item {
     flex-basis: 25%;
     display: flex;
